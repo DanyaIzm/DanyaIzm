@@ -5,4 +5,4 @@ La tempo pasas kaj ne revenas
 
 Neniam ne provu OSDEVon, ABSOLUTE!
 
-Prefere faru ludekreadon, retejprogramadon aŭ iu ajn ol OSDEVo!
+Prefere faru ludekreadon, retejprogramadon aŭ iu ajn ol OSDEVon!
