@@ -1,3 +1,5 @@
+![Codewars](https://www.codewars.com/users/DanielIzm/badges/large)
+
 Saluton kaj bonvolu al ĉiuj! Mia nomo estas Staka Kanario (ne serioze, certe)!
 
 Neniam ne provu OSDEVon, ABSOLUTE!
