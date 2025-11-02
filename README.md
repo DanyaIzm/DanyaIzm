@@ -7,3 +7,5 @@ Saluton kaj bonvolu al ĉiuj!
 Neniam ne provu OSDEVon, ABSOLUTE!
 
 Prefere faru ludkreadon, retejprogramadon aŭ iu ajn ol OSDEVon! Sed nur vi tre volas...
+
+![](https://github-profile-trophy.vercel.app/?username=DanyaIzm&theme=alduin)
